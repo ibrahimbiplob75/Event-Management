@@ -1,0 +1,202 @@
+ [
+    {
+      "id": 1,
+      "title": "Web Development Workshop",
+      "image": "https://i.ibb.co/VM49Pyk/image-13.jpg",
+      "rating": 4.5,
+      "number_of_participants": 200,
+      "price": 49.99,
+      "number_of_reviews": 35,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 2,
+      "title": "Digital Marketing Webinar",
+      "image": "https://i.ibb.co/W0wmMtZ/image-12.jpg" ,
+      "rating": 4.3,
+      "number_of_participants": 300,
+      "price": 0,
+      "number_of_reviews": 28,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 3,
+      "title": "Career Fair 2023",
+      "image": "https://i.ibb.co/QnrPHF4/image-11.jpg",
+      "rating": 4.2,
+      "number_of_participants": 1000,
+      "price": 0,
+      "number_of_reviews": 50,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 4,
+      "title": "Educational Conference on Science",
+      "image":  "https://i.ibb.co/ZSsDzwG/image-10.jpg" ,
+      "rating": 4.7,
+      "number_of_participants": 500,
+      "price": 79.99,
+      "number_of_reviews": 45,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 5,
+      "title": "Training Program in Data Science",
+      "image": "https://i.ibb.co/X755Byr/image-9.jpg",
+      "rating": 4.6,
+      "number_of_participants": 250,
+      "price": 29.99,
+      "number_of_reviews": 40,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 6,
+      "title": "Marketing Webinar Series",
+      "image": "https://i.ibb.co/Mk9mgLy/image-8.jpg",
+      "rating": 4.4,
+      "number_of_participants": 400,
+      "price": 19.99,
+      "number_of_reviews": 32,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 7,
+      "title": "Leadership Seminar",
+      "image": "https://i.ibb.co/fkrqF57/image-7.jpg",
+      "rating": 4.6,
+      "number_of_participants": 200,
+      "price": 29.99,
+      "number_of_reviews": 38,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 8,
+      "title": "Career Development Workshop",
+      "image": "https://i.ibb.co/pnBPsXR/image-6.jpg",
+      "rating": 4.4,
+      "number_of_participants": 300,
+      "price": 24.99,
+      "number_of_reviews": 33,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 9,
+      "title": "Online Marketing Conference",
+      "image": "https://i.ibb.co/51RybCT/image-5.jpg",
+      "rating": 4.5,
+      "number_of_participants": 450,
+      "price": 49.99,
+      "number_of_reviews": 42,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 10,
+      "title": "Finance and Investment Webinar",
+      "image": "https://i.ibb.co/F4mZGV9/image-4.jpg",
+      "rating": 4.3,
+      "number_of_participants": 500,
+      "price": 19.99,
+      "number_of_reviews": 30,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 11,
+      "title": "Data Analysis Training Program",
+      "image": "https://i.ibb.co/rZ49PB1/image-3.jpg",
+      "rating": 4.8,
+      "number_of_participants": 350,
+      "price": 59.99,
+      "number_of_reviews": 55,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 12,
+      "title": "Art and Design Workshop",
+      "image": "https://i.ibb.co/Drp9Jw3/image-2.jpg",
+      "rating": 4.7,
+      "number_of_participants": 250,
+      "price": 39.99,
+      "number_of_reviews": 48,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 13,
+      "title": "Science and Technology Conference",
+      "image": "https://i.ibb.co/2tL7djS/image-1.jpg",
+      "rating": 4.6,
+      "number_of_participants": 400,
+      "price": 29.99,
+      "number_of_reviews": 43,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 14,
+      "title": "Business Management Workshop",
+      "image": "https://i.ibb.co/Drp9Jw3/image-2.jpg",
+      "rating": 4.4,
+      "number_of_participants": 350,
+      "price": 34.99,
+      "number_of_reviews": 36,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 15,
+      "title": "Healthcare Symposium",
+      "image": "https://i.ibb.co/rZ49PB1/image-3.jpg",
+      "rating": 4.7,
+      "number_of_participants": 300,
+      "price": 44.99,
+      "number_of_reviews": 47,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 16,
+      "title": "Language Learning Workshop",
+      "image": "https://i.ibb.co/F4mZGV9/image-4.jpg",
+      "rating": 4.5,
+      "number_of_participants": 250,
+      "price": 19.99,
+      "number_of_reviews": 40,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 17,
+      "title": "IT and Computer Science Conference",
+      "image": "https://i.ibb.co/51RybCT/image-5.jpg",
+      "rating": 4.6,
+      "number_of_participants": 350,
+      "price": 29.99,
+      "number_of_reviews": 44,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 18,
+      "title": "Engineering Symposium",
+      "image": "https://i.ibb.co/pnBPsXR/image-6.jpg",
+      "rating": 4.7,
+      "number_of_participants": 300,
+      "price": 34.99,
+      "number_of_reviews": 45,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 19,
+      "title": "Social Sciences Symposium",
+      "image": "https://i.ibb.co/fkrqF57/image-7.jpg",
+      "rating": 4.6,
+      "number_of_participants": 350,
+      "price": 29.99,
+      "number_of_reviews": 43,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    },
+    {
+      "id": 20,
+      "title": "Human Resources Conference",
+      "image": "https://i.ibb.co/Mk9mgLy/image-8.jpg",
+      "rating": 4.7,
+      "number_of_participants": 300,
+      "price": 34.99,
+      "number_of_reviews": 46,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod erat vel odio volutpat, vel mattis elit iaculis. Sed hendrerit, urna eu sollicitudin dapibus, nulla lorem congue eros, in tristique ex justo ac felis. Vivamus vel tincidunt turpis. Integer sed velit id odio sagittis varius eu in nisl. Sed at pulvinar neque, ac congue sem. Curabitur vel nunc id odio euismod elementum. Integer semper augue sed dolor ultrices scelerisque. Nullam posuere fringilla justo id venenatis. Sed vel vehicula nisi. Sed suscipit, nunc sit amet fermentum fermentum, nisl ipsum auctor tortor, vel vestibulum ipsum urna eu eros. Cras id odio ac nulla elementum eleifend. Nulla facilisi. Sed facilisis luctus quam, sit amet efficitur."
+    }
+  ]
