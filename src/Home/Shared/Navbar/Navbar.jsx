@@ -106,6 +106,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <a onClick={(handleLogout)}>Logout</a>
+                    <ToastContainer></ToastContainer>
                   </li>
                 </ul>
               </div>

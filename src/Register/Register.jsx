@@ -18,12 +18,29 @@ const Register = () => {
       const name= data.get('name');
       const email = data.get("email");
       const password = data.get("password");
+        if (password.length < 6) {
+          toast.error("Password must be at least 6 characters long.");
+          return;
+        }
+
+        if (!/[A-Z]/.test(password)) {
+          toast.error("Password must contain at least one uppercase letter.");
+          return;
+        }
+
+        if (!/[!@#$%^&*]/.test(password)) {
+          toast.error(
+            "Password must contain at least one special character (!@#$%^&*)."
+          );
+          return;
+        }
 
       console.log(name, email,password);
 
       createUser(email, password)
       .then(result=>{
         console.log(result.user);
+        toast("Your Registration complete !");
         
       }).catch(error=>{
         console.log(error)
@@ -31,9 +48,7 @@ const Register = () => {
 
       
     };
-    const Register_notify = () => {
-      toast("Your Registration complete !");
-    };
+    
     return (
       <div>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 m-3 ml-10 items-center">
@@ -86,7 +101,7 @@ const Register = () => {
                   </div>
                   <div className="form-control mt-6">
                     <button
-                      onClick={Register_notify}
+                      
                       className="btn btn-primary"
                     >
                       Register
