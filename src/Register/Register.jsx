@@ -1,8 +1,11 @@
 import { Link } from "react-router-dom";
-
+import { toast, ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import { useContext } from "react";
 import { ContextProvider } from "../AuthContext/AuthProvider";
 import RightSideNav from "../Home/Shared/RightSideNav/RightSideNav";
+
+
 
 const Register = () => {
 
@@ -27,6 +30,9 @@ const Register = () => {
       })
 
       
+    };
+    const Register_notify = () => {
+      toast("Your Registration complete !");
     };
     return (
       <div>
@@ -79,7 +85,13 @@ const Register = () => {
                     </label>
                   </div>
                   <div className="form-control mt-6">
-                    <button className="btn btn-primary">Login</button>
+                    <button
+                      onClick={Register_notify}
+                      className="btn btn-primary"
+                    >
+                      Register
+                    </button>
+                    <ToastContainer />
                   </div>
                 </form>
               </div>

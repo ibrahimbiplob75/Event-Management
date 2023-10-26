@@ -1,7 +1,9 @@
 import { useContext } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { ContextProvider } from "../../../AuthContext/AuthProvider";
-import user_avatar from "../../../assets/user.jpg"
+import user_avatar from "../../../assets/user.jpg";
+import "react-toastify/dist/ReactToastify.css";
+import { ToastContainer, toast } from "react-toastify";
 
 
 const Navbar = () => {
@@ -9,9 +11,12 @@ const Navbar = () => {
     const handleLogout=()=>{
         logout()
         .then(() => {
+          toast("Your are Logged Out !");
           window.location.reload()
         }).catch();
     }
+
+    
 
     const list = (
       <>
@@ -100,7 +105,7 @@ const Navbar = () => {
                     <a>Settings</a>
                   </li>
                   <li>
-                    <a onClick={handleLogout}>Logout</a>
+                    <a onClick={(handleLogout)}>Logout</a>
                   </li>
                 </ul>
               </div>

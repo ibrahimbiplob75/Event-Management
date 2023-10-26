@@ -1,8 +1,10 @@
 
-import { Link, Navigate, useLocation, useNavigate } from "react-router-dom";
+import { Link,  useLocation, useNavigate } from "react-router-dom";
 import { useContext } from "react";
 import { ContextProvider } from "../AuthContext/AuthProvider";
 import RightSideNav from "../Home/Shared/RightSideNav/RightSideNav";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 
 
@@ -12,6 +14,10 @@ const LogIn = () => {
   const { signIn } = useContext(ContextProvider);
   const navigate=useNavigate();
   const location=useLocation();
+
+  const Donation_notify = () => {
+    toast("You are Logged In !");
+  };
 
   const handleLogin = (event) => {
     event.preventDefault();
@@ -36,7 +42,6 @@ const LogIn = () => {
    
     return (
       <div>
-
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 m-3 ml-12 items-center">
           <div className="hero min-h-screen w-full md:col-span-2">
             <div className="hero-content flex-col ">
@@ -75,17 +80,21 @@ const LogIn = () => {
                     </label>
                   </div>
                   <div className="form-control mt-6">
-                    <button className="btn btn-primary">Login</button>
+                    <button
+                      onClick={Donation_notify}
+                      className="btn btn-primary"
+                    >
+                      Login
+                    </button>
+                    <ToastContainer></ToastContainer>
                   </div>
                 </form>
               </div>
               <p className="text-green-600 text-xl mt-6">
                 Are you New ?{" "}
                 <Link className="text-red-700" to="/register">
-                  {" "}
                   Register
-                </Link>{" "}
-                Now!{" "}
+                </Link>Now!
               </p>
             </div>
           </div>
