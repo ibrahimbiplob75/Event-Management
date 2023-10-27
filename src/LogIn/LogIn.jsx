@@ -15,9 +15,7 @@ const LogIn = () => {
   const navigate=useNavigate();
   const location=useLocation();
 
-  const Donation_notify = () => {
-    toast("You are Logged In !");
-  };
+ 
 
   const handleLogin = (event) => {
     event.preventDefault();
@@ -30,13 +28,20 @@ const LogIn = () => {
 
     signIn(email, password)
       .then(() => {
-        
+        toast("You are Logged In !");
         navigate(location?.state ? location.state : "/");
-        
       })
       .catch((error) => {
         const errorMessage = error.message;
-        console.log(errorMessage)
+        const errorCode = error.code;
+        console.log(errorMessage,errorCode);
+        if (errorMessage.includes("password")) {
+          toast.error("Password doesn't match.");
+        } else if (errorMessage.includes("email")) {
+          toast.error("Email doesn't match.");
+        } else {
+          toast.error("An error occurred during login.");
+        }
       });
   };
    
@@ -81,7 +86,6 @@ const LogIn = () => {
                   </div>
                   <div className="form-control mt-6">
                     <button
-                      onClick={Donation_notify}
                       className="btn btn-primary"
                     >
                       Login
